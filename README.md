@@ -71,12 +71,3 @@ Stored in `.csv` files with trial metadata:
 - Classification performance indicated discriminative patterns embedded in the EMG features.
 
 ---
-
-## 📌 Credits
-
-**Authors**: Petros Kotoulas, Nikolaos-Andreas Tzovaras  
-**Institution**: NTUA – MSc in Translational Engineering in Health and Medicine  
-**Course**: Introduction to Neuroscience and Neural Engineering  
-**Year**: 2024–2025
-
----
