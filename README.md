@@ -10,7 +10,7 @@ This repository contains the lab report for the **"Introduction to Neuroscience 
 - Classification: decoding task performance (correct vs. incorrect).
 
 ## Files
-- `Neuroscience_EMG(Response)_Report_2024_2025.ipynb`: Full analysis notebook.
+- `Neuroscience-EMG-Response.ipynb`: Full analysis notebook.
 
 ## Tools
 Python, NumPy, pandas, SciPy, scikit-learn, matplotlib.
